@@ -7,7 +7,7 @@ Una aplicación web para dar información sobre el clima de una determinada ciud
 Digitar el nombre de la ciudad
 (opcional): seleccionar los días 
 
-##Características
+## Características
 
 Información (por días) incluye: temperatura mínima y máxima, precipitaciones, humedad, condiciones atmosféricas y probabilidad. 
 Gif visual.
