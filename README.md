@@ -2,6 +2,10 @@
 
 Una aplicación web para dar información sobre el clima de una determinada ciudad. Con la ayuda de Visual Crossing APIs.
 
+## Lenguajes: 
+
+Javascript, HTML+CSS
+
 ## Uso
 
 Digitar el nombre de la ciudad
